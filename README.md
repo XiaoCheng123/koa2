@@ -10,8 +10,11 @@
 - 使用`node index（x）.js`进行运行第x个项目，例如`node index1.js`运行第一个项目
 
 ## index文件说明
-- index1.js     说明使用自定义的generator中间件，普通中间件，自定义的route中间件
-- index2.js     说明使用koa-router的中间件的实践
+文件名 | 说明
+---|---
+- index1.js | 说明使用自定义的generator中间件，普通中间件，自定义的route中间件
+- index2.js | 说明使用koa-router的中间件的实践
+- index3.js | 说明GET请求数据获取  
 
 ## 文件目录结构
 
